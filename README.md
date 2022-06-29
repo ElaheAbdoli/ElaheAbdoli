@@ -3,7 +3,7 @@
 - I’m interested in making ETL in visual studio
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on data analyze and Business intelligence projects in power_bi desk top and report server 
-- 📫 you can reach me via email
+- 📫 you can reach me via my email:elahe.abdoli@mail.com
 
 <!---
 ElaheAbdoli/ElaheAbdoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
